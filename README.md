@@ -13,16 +13,17 @@ Estoy listo para adquirir conocimiento, colaborar con equipos con experiencia en
 
 <h3 align="left">🌐 Socials:</h3>
 <p align="left">
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xabier.primoi@rai.usc.es)
 <a href="https://kaggle.com/xprimoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="xprimoi" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">💻Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=XPrimoi&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=XPrimoi&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=XPrimoi&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h3 align="left">📊 GitHub Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=XPrimoi&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true" alt="xprimoi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XPrimoi&theme=default_repocard&hide_border=false" alt="xprimoi" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XPrimoi&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="xprimoi" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xprimoi&label=Profile%20views&color=000000&style=flat-square" alt="xprimoi" /> </p>
