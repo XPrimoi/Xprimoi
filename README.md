@@ -1,5 +1,5 @@
 <h1 align="center">👨🏻‍💻 Xabier Primoi | Estudiante de Ingeniería Informática </h1>
-<h3 align="center">📍 Ferrol, España | 🎓 Universidade de Santiago de Compostela | 💻 Resolución de problemas</h3>
+<h3 align="center">📍 Ferrol | 🎓 Universidade de Santiago de Compostela | 💻 Resolución de problemas</h3>
 
 <p align="centre">
 Soy un estudiante de Ingeniería Informática con una gran pasión por la resolución de problemas, la innovación y los desafíos complejos. Me entusiasma identificar soluciones efectivas, escalables y creativas, explorando continuamente nuevas maneras de mejorar y optimizar cada paso del proceso.<br><br>
