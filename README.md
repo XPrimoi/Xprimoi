@@ -25,7 +25,7 @@ Estoy listo para adquirir conocimiento, colaborar con equipos con experiencia en
 <h3 align="left">📊 GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=XPrimoi&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true" alt="xprimoi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XPrimoi&theme=default_repocard&hide_border=false" alt="xprimoi" /></p>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XPrimoi&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="xprimoi" /></p>
 
